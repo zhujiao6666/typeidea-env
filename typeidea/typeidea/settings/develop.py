@@ -1,4 +1,5 @@
-from typeidea.typeidea.settings.base import * #NOQA
+from typeidea.settings.base import *  # NOQA
+
 DEBUG = True
 DATABASES = {
     'default': {
